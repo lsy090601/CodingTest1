@@ -1,10 +1,10 @@
 # [level 0] 중앙값 구하기 - 120811 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120811?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120811?language=javascript) 
 
 ### 성능 요약
 
-메모리: 80.9 MB, 시간: 3.86 ms
+메모리: 43.9 MB, 시간: 0.11 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 06월 09일 22:27:37
+2026년 06월 10일 10:27:43
 
 ### 문제 설명
 
